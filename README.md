@@ -17,4 +17,4 @@ What It Does
 The program builds a constraint matrix representing all possible valid placements and uses DLX to find a valid subset of placements that satisfies all constraints.
 
 The Input format :
-The puzzle is read from standard input. Each line represents a row of the grid, with numbers separated by spaces.
+Sudoku board via standard input (rows with space-separated values; 0 for blanks)
