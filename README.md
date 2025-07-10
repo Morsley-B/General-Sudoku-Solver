@@ -1,4 +1,4 @@
-# General-Sudoku-Solver
+# Scalable-Sudoku-Solver
 
 A general-purpose Sudoku solver implemented in C++ that supports boards of various sizes — including 9x9, 16x16, and 25x25. It uses the Dancing Links (DLX) algorithm, an efficient implementation of Donald Knuth’s Algorithm X, to solve the puzzle by modeling it as an Exact Cover problem.
 
