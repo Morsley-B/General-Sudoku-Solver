@@ -26,10 +26,12 @@ Each Sudoku puzzle is translated into a constraint matrix where a valid solution
 
 DLX finds a subset of rows (number placements) that satisfies all four constraints simultaneously.
 
-
 Input Format
 - The puzzle is read via standard input.
 - Each line corresponds to a row of the board.
 - Values are space-separated.
 - Use `0` to indicate blank cells.
 - For sizes > 9, use uppercase letters (e.g., A = 10, B = 11, etc.).
+
+
+Practical Use: Showcases expertise in complex problem solving, with direct applications in optimization, compilers, and AI reasoning systems.
